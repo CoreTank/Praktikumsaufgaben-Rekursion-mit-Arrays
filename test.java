@@ -4,6 +4,6 @@ public class test
     {
        int a[]={1, 2, 3, -4,-5, 6};
         
-        System.out.println(positives.countPositives(a,1, 5));
+        System.out.println(negatives.countNegatives(a,1, 5));
     }
 }

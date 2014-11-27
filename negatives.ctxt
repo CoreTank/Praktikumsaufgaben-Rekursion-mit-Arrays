@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=arr\ d\ t
+comment0.target=int\ countNegatives(int[],\ int,\ int)
+numComments=1
