@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=arr\ i\ x
+comment0.target=boolean\ contains(int[],\ int,\ int)
+numComments=1

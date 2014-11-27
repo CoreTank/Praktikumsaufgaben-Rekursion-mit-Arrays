@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=arr1\ arr2\ i
+comment0.target=boolean\ contentCheck(char[],\ char[],\ int)
+numComments=1
